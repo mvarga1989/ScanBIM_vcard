@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=UTF-8:Varga;Matej;;Prof. Dr. ;
-FN:Prof. Dr. Matej Varga
+N;CHARSET=UTF-8:Varga;Matej;;Dr.-Ing. ;
+FN:Dr.-Ing. Matej Varga
 ORG:ScanBIM GmbH
 COMPANY:ScanBIM GmbH
-TITLE:CEO and co-founder
+TITLE:Geschäftsführer und Mitgründer
 
 ADR;CHARSET=UTF-8;TYPE=WORK:;;Schauenbergstrasse 40;Zürich;;8046;Switzerland
 TEL;TYPE=Work,pref:0041762047850
@@ -16,7 +16,7 @@ TEL;TYPE=Home,VOICE:
 TEL;TYPE=sms:
 URL;TYPE=Messenger:
 TEL;TYPE=SIGNAL:
-EMAIL;TYPE=Email:info@scanbim.ch
+EMAIL;TYPE=Email:matej@scanbim.ch
 URL;TYPE=Digital Business Card:
 
 
@@ -27,7 +27,7 @@ UID:SMART vCARD-100078691
 URL;TYPE=Website:www.scanbim.ch
 
 URL;TYPE=Calendar:
-URL;TYPE=WhatsApp:
+URL;TYPE=WhatsApp:https://wa.me/41762047850
 URL;TYPE=WeChat:
 
 
